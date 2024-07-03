@@ -1,1 +1,3 @@
-tera
+＜ディレクトリ構成＞
+kadai_github
+
